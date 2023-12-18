@@ -1,0 +1,11 @@
+torch torchaudio torchvision torchsummary
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+collections
+datasets
+evaluate
+tqdm
+nltk
